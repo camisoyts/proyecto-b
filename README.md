@@ -6,10 +6,11 @@ Este es un repositorio de practica de Aspectos
 
 Básicos de la computación clase veintiocho abril del dos mil veintiséis.
 
-# Encabezados 
-## este es un encabezado de nivel 2
+# Practica de clase
+## Encabezados 
+### Este es un encabezado de nivel 2
 texto normal
-### este es un encabezado de nivel 3
+### Este es un encabezado de nivel 3
 texto normal
 
 ## Tipos de letras
@@ -49,6 +50,6 @@ texto normal
 ```python
 print("hola esto es un codigo")
 if (x=5)
-   print("You win ")
+   print("You win")
 else:
    print("You lose")
