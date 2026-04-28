@@ -53,3 +53,17 @@ if (x=5)
    print("You win")
 else:
    print("You lose")
+
+## Tablas de verdad
+
+A  |  B  |  A  and  B  |
+---|-----|-------------|
+V  |  V  |     V       |
+V  |  F  |     F       |
+F  |  V  |     V       |
+F  |  F  |     F       |
+
+## Emojis
+
+soporte a emojis ponga : y algo mas
+🫀👼🐚☣️💔📸🎱🖤🫐👽🎨🫧🦇🦋🧋
